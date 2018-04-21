@@ -2,3 +2,5 @@ client_secret.json
 credentials.json
 
 server/notifications/*
+
+ibm-auth.json
