@@ -49,7 +49,7 @@ dask==0.17.2
 datashape==0.5.4
 decorator==4.2.1
 dill==0.2.7.1
-distributed==1.21.5
+distributed==2021.10.0
 docutils==0.14
 em==0.4.0
 empy==3.3.2
